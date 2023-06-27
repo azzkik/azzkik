@@ -1,4 +1,4 @@
-![Header]([github-header-image.png))
+![Header]([github-header-image.png)
 
 ## Introduction
 Hello there! I'm [Your Name], a recent data science enthusiast diving into the world of data. I'm passionate about leveraging data to gain insights and make informed decisions.
