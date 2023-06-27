@@ -1,16 +1,31 @@
-<h1 align="center">Hi there 👋, I'm Azkiya</h1>
-<h3 align="center">I am a student from the data science department who is interested in data science.</h3>
+# My Data Science Profile
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azzkik&label=Profile%20views&color=0e75b6&style=flat" alt="azzkik" /> </p>
+![Banner Image](link_gambar)
 
-- 🌱 I’m currently learning **Python, R, MySQL**
+## Introduction
+Hello there! I'm [Your Name], a recent data science enthusiast diving into the world of data. I'm passionate about leveraging data to gain insights and make informed decisions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/azkiyakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azkiyakmal" height="30" width="40" /></a>
-</p>
+## Skills
+- Python
+- R
+- SQL
+- Machine Learning
+- Data Visualization
+- Statistical Analysis
+- Data Cleaning and Preprocessing
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## Projects
+### Project 1: Analyzing Customer Churn
+In this project, I explored a telecommunications dataset to analyze customer churn. I used machine learning algorithms to predict customer churn and provided actionable insights to reduce churn rate.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azzkik&show_icons=true&locale=en&layout=compact" alt="azzkik" /></p>
+### Project 2: Sentiment Analysis on Twitter Data
+For this project, I collected Twitter data related to a specific topic and performed sentiment analysis. I utilized natural language processing techniques to classify tweets as positive, negative, or neutral, providing valuable insights into public sentiment.
+
+## Education
+- Bachelor's Degree in Data Science, [Your University], [Year]
+- Online Courses:
+    - Introduction to Machine Learning, Coursera
+    - Data Visualization with Python, DataCamp
+
+## Contact
+Feel free to reach out to me via email at [Your Email Address]. Let's connect and collaborate on exciting data science projects!
