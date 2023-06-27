@@ -1,6 +1,4 @@
-# My Data Science Profile
-
-![Banner Image](link_gambar)
+![Header]([link_gambar](https://github.com/azzkik/azzkik/blob/main/github-header-image.png?raw=true))
 
 ## Introduction
 Hello there! I'm [Your Name], a recent data science enthusiast diving into the world of data. I'm passionate about leveraging data to gain insights and make informed decisions.
