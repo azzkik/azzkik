@@ -23,7 +23,10 @@ For this project, I collected Twitter data related to a specific topic and perfo
 - Data Science student, UPN Veteran East Java, 2022
 - Online Courses:
     - Intro to Data Analytics, RevoU
+
 ## Contact
 Feel free to contact me below. Let's connect and collaborate on exciting data science projects!
-<a href="https://instagram.com/azkiyakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azkiyakmal" height="30" width="40" /></a>
-</p>
+
+- [Instagram](https://instagram.com/azkiyakmal)
+- [Twitter](https://twitter.com/Akmalazki)
+- [Email](mailto:azkiyaakmal25@gmail.com)
