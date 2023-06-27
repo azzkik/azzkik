@@ -1,7 +1,7 @@
 ![MasterHead](banner.png)
 
 ## Introduction
-Hello there! I'm [Your Name], a recent data science enthusiast diving into the world of data. I'm passionate about leveraging data to gain insights and make informed decisions.
+Hello there! I'm Azkiya Akmal. I'm passionate about leveraging data to gain insights and make informed decisions.
 
 ## Skills
 - Python
@@ -20,10 +20,10 @@ In this project, I explored a telecommunications dataset to analyze customer chu
 For this project, I collected Twitter data related to a specific topic and performed sentiment analysis. I utilized natural language processing techniques to classify tweets as positive, negative, or neutral, providing valuable insights into public sentiment.
 
 ## Education
-- Bachelor's Degree in Data Science, [Your University], [Year]
+- Data Science student, UPN Veteran East Java, 2022
 - Online Courses:
-    - Introduction to Machine Learning, Coursera
-    - Data Visualization with Python, DataCamp
-
+    - Intro to Data Analytics, RevoU
 ## Contact
-Feel free to reach out to me via email at [Your Email Address]. Let's connect and collaborate on exciting data science projects!
+Feel free to contact me below. Let's connect and collaborate on exciting data science projects!
+<a href="https://instagram.com/azkiyakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azkiyakmal" height="30" width="40" /></a>
+</p>
