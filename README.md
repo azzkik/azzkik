@@ -7,17 +7,17 @@ Hello there! I'm Azkiya Akmal. I'm passionate about leveraging data to gain insi
 - Python
 - R
 - SQL
+- Tableau
 - Machine Learning
 - Data Visualization
 - Statistical Analysis
 - Data Cleaning and Preprocessing
 
 ## Projects
-### Project 1: Analyzing Customer Churn
-In this project, I explored a telecommunications dataset to analyze customer churn. I used machine learning algorithms to predict customer churn and provided actionable insights to reduce churn rate.
+### Project 1:
 
-### Project 2: Sentiment Analysis on Twitter Data
-For this project, I collected Twitter data related to a specific topic and performed sentiment analysis. I utilized natural language processing techniques to classify tweets as positive, negative, or neutral, providing valuable insights into public sentiment.
+### Project 2: 
+
 
 ## Education
 - Data Science student, UPN Veteran East Java, 2022
@@ -29,4 +29,4 @@ Feel free to contact me below. Let's connect and collaborate on exciting data sc
 
 - [Instagram](https://instagram.com/azkiyakmal)
 - [Twitter](https://twitter.com/Akmalazki)
-- [Email](mailto:azkiyaakmal25@gmail.com)
+- [Email](mailto:22083010084@student.upnjatim.ac.id)
