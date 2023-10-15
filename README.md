@@ -26,4 +26,4 @@ Feel free to contact me below. Let's connect and collaborate on exciting data sc
 
 - [Instagram](https://instagram.com/azkiyakmal)
 - [Twitter](https://twitter.com/Akmalazki)
-- [Email](mailto:22083010084@student.upnjatim.ac.id)
+- [Tableau Profile](https://public.tableau.com/app/profile/muhammad.azkiya.akmal/vizzes)
