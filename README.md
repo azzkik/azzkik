@@ -1,16 +1,13 @@
 ![MasterHead](banner.png)
 
 ## Introduction
-Hello there! I'm Azkiya Akmal. I'm passionate about leveraging data to gain insights and make informed decisions.
+Hello there! I'm Muhammad Azkiya' Akmal. I'm passionate about leveraging data to gain insights and make informed decisions.
 
 ## Skills
 - Python
 - R
-- SQL
 - Tableau
-- Machine Learning
 - Data Visualization
-- Statistical Analysis
 - Data Cleaning and Preprocessing
 
 ## Projects
