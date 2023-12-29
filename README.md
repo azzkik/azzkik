@@ -16,11 +16,6 @@ Hello there! I'm Muhammad Azkiya' Akmal. I'm passionate about leveraging data to
    - Identified trends and fluctuations in rice production.
    - Explored potential factors affecting production.
 
-## Education
-- Data Science student, UPN Veteran East Java, 2022
-- Online Courses:
-    - Intro to Data Analytics, RevoU
-
 ## Contact
 Feel free to contact me below. Let's connect and collaborate on exciting data science projects!
 
