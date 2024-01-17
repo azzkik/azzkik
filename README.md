@@ -7,10 +7,11 @@ Hello there! I'm Muhammad Azkiya' Akmal. I'm passionate about leveraging data to
 - Python
 - R
 - Tableau
-- Data Visualization
-- Data Cleaning and Preprocessing
+- Excel
+- Statistic tool (SPSS, Minitab, EViews 12)
 
 ## Progress Learning
+- SQL
 - Machine Learning
 - Cloud Computing
 - Data Mining
