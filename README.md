@@ -1,4 +1,4 @@
-<img src="https://github.com/azzkik/azzkik/blob/main Black%20Typographic%20Retro%20Moon%20and%20Astronaut%20Twitter%20Header.png">
+![Header Image](https://github.com/azzkik/azzkik/blob/header.png)
 
 ## Introduction
 Hello there! I'm Muhammad Azkiya' Akmal. I'm passionate about leveraging data to gain insights and make informed decisions.
