@@ -1,4 +1,4 @@
-![Header Image](https://github.com/azzkik/azzkik/blob/header.png)
+<img src="https://raw.githubusercontent.com/azzkik/azzkik/master/header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 ## Introduction
 Hello there! I'm Muhammad Azkiya' Akmal. I'm passionate about leveraging data to gain insights and make informed decisions.
