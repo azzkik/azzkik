@@ -1,4 +1,4 @@
-![MasterHead](banner.png)
+![MasterHead](Black Typographic Retro Moon and Astronaut Twitter Header.png)
 
 ## Introduction
 Hello there! I'm Muhammad Azkiya' Akmal. I'm passionate about leveraging data to gain insights and make informed decisions.
