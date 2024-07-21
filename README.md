@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/azzkik/azzkik/master/header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello everyone&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 ## Introduction
 Hello there! I'm Muhammad Azkiya' Akmal. I'm passionate about leveraging data to gain insights and make informed decisions.
