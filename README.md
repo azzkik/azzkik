@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;Data+Analyst+and+Engineer,;Undergraduate+Data+Science+Student,;ETL+Newbie,;Love+to+learn+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;Data+Analyst+and+Engineer,;Undergraduate+Data+Science+Student,;Open+for+Collaboration,;Love+to+learn+new+things"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Introduction
+## <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnoyd3ZjbHF6OGw3OThvcmhxeHU5ZG9oOXltM2Z3MGh6M3IxZGswOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZwRgp3MRVbA2sUvKmS/giphy.webp" width = 50px></picture> Introduction
 
 <h3 align="left"> Hello there! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 <h4 align="left"> I'm Muhammad Azkiya' Akmal. I'm passionate about leveraging data to gain insights and make informed decisions.</h4>
